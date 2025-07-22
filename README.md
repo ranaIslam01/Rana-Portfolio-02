@@ -47,7 +47,7 @@ A sleek and interactive portfolio website built using **React.js**, **Tailwind C
 ### 🌀 1. Clone the Repository
 
 ```bash
-git clone https://github.com/ranaIslam01/Rana-Portfolio-03.git
+git clone https://github.com/ranaIslam01/Rana-Portfolio-02.git
 cd Rana-Portfolio-03
 npm install
 npm run dev
